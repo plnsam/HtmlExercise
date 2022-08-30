@@ -1,0 +1,29 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#example1{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+    background-color: rgb(96, 161, 199);
+}
+#container{
+    width: 30%;
+    height: 30%;
+    box-sizing: border-box;
+}
+.div{
+    width: 100%;
+    text-align: center;
+}
+img{
+    width: 100%;
+    border-radius: 25px;
+}
+a{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}
